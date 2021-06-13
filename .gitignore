@@ -1,0 +1,21 @@
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+### Webpack dist ###
+dist/
+
+### Dependency directories ###
+node_modules/
+
+### dotenv environment variables file ###
+.env
+
+### IDE ###
+.idea/*
+*.iml
+*.sublime-*
+
+### OSX ###
+.DS_Store
+.vscode
